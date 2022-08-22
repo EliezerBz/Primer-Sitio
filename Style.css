@@ -1,7 +1,17 @@
 body{
     background-color: aqua;
+    padding: 50px;
 }
 
 .titulo{
     color: red;
+    text-align: center;
+}
+
+.mis-gustos{
+    color: rgb(135, 113, 3);
+}
+
+.nombres1{
+    text-align: center;
 }
